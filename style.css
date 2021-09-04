@@ -1,0 +1,17 @@
+
+h1{
+  text-align: center;
+}
+#bday-input{
+  margin: 0 200px;
+  margin-bottom: 20px;
+  display: block;
+}
+#show-btn{
+  display: block;
+  margin: 0 250px;
+
+}
+#result{
+  text-align: center;
+}
